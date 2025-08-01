@@ -1,2 +1,3 @@
 # rasa-chatbot-final
-AppContainer for final rasa test
+
+CLAUDE.md-compliant microservice application container.
